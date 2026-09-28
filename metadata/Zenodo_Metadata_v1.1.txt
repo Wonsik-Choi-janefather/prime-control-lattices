@@ -1,0 +1,47 @@
+ZENODO DEPOSIT METADATA - VERSION 1.1
+
+Resource type:
+Publication / Preprint
+
+Title:
+Prime-Control Lattices
+
+Subtitle / additional title:
+A Prime-Coordinate Toy Universe: Multiplicative Coding, Beat Channels, and Quantum Control
+
+Creator:
+Family name: Choi
+Given name(s): Won Sik
+
+Author email printed in the manuscript:
+janefather@gmail.com
+
+Publication date:
+2026-08-16
+
+Version:
+1.1
+
+Publisher:
+Zenodo
+
+Description / Abstract:
+We introduce a self-contained mathematical toy model in which a finite set of prime numbers indexes coordinate directions of a multiplicative state space. The underlying group is a free abelian lattice, but the group alone does not canonically select the prime basis: unimodular changes of basis generate equivalent multiplicative coordinate systems. We therefore distinguish the nonnegative-exponent multiplicative monoid. Its atoms are exactly the selected primes, and its automorphism group reduces to permutations of those atoms, giving a precise prime-selection principle once an oriented factorization monoid is part of the structure. Bilateral prime shifts are symmetrized to define inversion-preserving control operators. Their product obeys an exact product-ratio mixing identity, while an m-prime product generates 2^(m-1) inversion-identified channels: one forward compositional code channel and 2^(m-1)-1 mixed-sign beat channels. A logarithmic position observable converts multiplicative coordinates into additive scale, and a quadratic logarithmic drift gives an exact bare splitting Omega log p log q between product and ratio states. For finite hard-wall truncations we prove full unitary controllability inside each inversion-parity sector under independently addressable prime-axis controls. Inversion symmetrization also erases orientation, so a physical realization would need an additional preparation or positive-monoid structure to identify which direction is primitive-forward. The construction is a mathematical control architecture, not a claim that physical nature is prime-coded.
+
+Keywords:
+prime-control lattice
+prime-exponent lattice
+positive-exponent monoid
+basis gauge
+prime selection
+multiplicative state space
+quantum control
+continuous-time quantum walk
+dynamical Lie algebra
+controllability
+beat channel
+logarithmic dynamics
+toy universe
+
+Notes:
+Version 1.1 strengthens the prime-selection logic by separating the GL(m,Z) group-basis gauge from the distinguished nonnegative-exponent monoid whose atoms are the prime directions. It also adds the code-beat split and the orientation-loss/falsification discussion. No claim that the physical universe is prime-coded.

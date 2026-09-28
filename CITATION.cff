@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata below."
+title: "Prime-Control Lattices: A Prime-Coordinate Toy Universe: Multiplicative Coding, Beat Channels, and Quantum Control"
+type: article
+authors:
+  - family-names: Choi
+    given-names: Won Sik
+    email: janefather@gmail.com
+version: "1.1"
+date-released: 2026-08-16
+doi: 10.5281/zenodo.21955048
+repository-code: "https://github.com/Wonsik-Choi-janefather/prime-control-lattices"
+url: "https://doi.org/10.5281/zenodo.21955048"
+abstract: >-
+  A self-contained mathematical toy model in which prime numbers index
+  coordinate directions of a multiplicative state space. It distinguishes a
+  positive-exponent monoid to select prime atoms, constructs symmetric shift
+  controls with exact product-ratio and code-beat decompositions, and proves
+  finite-dimensional controllability within inversion-parity sectors.
+keywords:
+  - prime-control lattice
+  - prime-exponent lattice
+  - positive-exponent monoid
+  - basis gauge
+  - multiplicative state space
+  - quantum control
+  - beat channel
+  - logarithmic dynamics
