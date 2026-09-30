@@ -59,3 +59,18 @@ BibTeX:
 The original v1.1 PDF and DOCX are preserved byte-for-byte; their hashes are recorded in `CHECKSUMS.sha256`. This repository does not declare a license independent of the published record. Refer to the Zenodo record for the license metadata attached to the archived work.
 
 Copyright (C) 2026 Wonsik Choi.
+
+---
+
+## Central corpus index
+
+This work is part of the open research and publishing corpus of **Wonsik Choi (최원식)**.
+
+- [Central Research & Publications Index](https://github.com/Wonsik-Choi-janefather/minimal-computing-cosmology-research-history/blob/main/PUBLICATIONS.md)
+- [Public GitBook index](https://independent-research.gitbook.io/mcc-and-wrra-research-history/publications)
+- [Machine-readable corpus index](https://github.com/Wonsik-Choi-janefather/minimal-computing-cosmology-research-history/blob/main/works.json)
+- Identity: [janefather@gmail.com](mailto:janefather@gmail.com)
+
+Rights remain those stated in this repository and its linked archival record.
+
+**Copyright (C) 2026 Wonsik Choi**
